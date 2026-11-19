@@ -1,0 +1,26 @@
+[
+    {
+        "id": "B001",
+        "judul": "Belajar Python",
+        "kategori": "Pemrograman",
+        "harga": 55000
+    },
+    {
+        "id": "B002",
+        "judul": "Dasar Basis Data",
+        "kategori": "Database",
+        "harga": 60000
+    },
+    {
+        "id": "B003",
+        "judul": "Pemrograman Java",
+        "kategori": "Pemrograman",
+        "harga": 65000
+    },
+    {
+        "id": "2",
+        "judul": "2",
+        "kategori": "2",
+        "harga": 2.0
+    }
+]
